@@ -9,9 +9,11 @@ This application is a pizza ordering app for the Teenage Mutant Ninja Turtles. E
 - rendering list
 
 ## Installation
-1. Clone the repository ```bash 
+1. Clone the repository 
+```bash
 git clone https://github.com/HasanTayar/React-Styling
 ```
+
 2. Run `npm install` to install dependencies
 3. Run `npm start` to start the development server
 4. run `npm i styled-components ` to dowbload the styled commponents
